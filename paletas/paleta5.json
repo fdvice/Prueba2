@@ -1,0 +1,10 @@
+{
+  "name": "Red Gradient Theme",
+  "dataColors": [
+    "#330000", "#660000", "#990000", "#cc0000", "#e60000", "#ff0000", 
+    "#ff3333", "#ff6666", "#ff9999", "#ffcccc"
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#ff0000"
+}
